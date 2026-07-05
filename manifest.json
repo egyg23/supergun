@@ -2,7 +2,7 @@
   "name": "Daily Tracker — 이용건",
   "short_name": "Daily",
   "description": "매일 건강·학습·역량 체크리스트",
-  "start_url": "/",
+  "start_url": "/supergun/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#6366f1",
